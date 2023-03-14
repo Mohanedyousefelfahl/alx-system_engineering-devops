@@ -1,0 +1,2 @@
+#!/bin/bash
+fibd -name "*.js" -type f -delete
